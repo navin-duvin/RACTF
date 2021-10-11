@@ -1,7 +1,7 @@
 ### RACTF
-##capture the flag event writeups
+## capture the flag event writeups
 
-#Hash cracking
+# Hash cracking
 
 
 ![This is image](https://user-images.githubusercontent.com/71208443/136779910-1951ad63-fe61-4cb4-be45-876f3e7df598.png)
