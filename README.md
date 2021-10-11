@@ -12,7 +12,7 @@ hashcat -a 0 -m 0 hash.txt rockyou.txt
 
 DO{phantomlover}
 
-![This is image]((https://user-images.githubusercontent.com/71208443/136780362-c2f52c74-28aa-4897-82f2-b094f4e343c4.png)
+![This is image](https://user-images.githubusercontent.com/71208443/136780362-c2f52c74-28aa-4897-82f2-b094f4e343c4.png)
 
 hashtype-sha128
 
