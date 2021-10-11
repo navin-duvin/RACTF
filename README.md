@@ -68,6 +68,40 @@ hashcat -a 0 -m 1800 hash.txt rockyou.txt
 DO{igetmoney}
 
 
+# stegnography
+
+![image](https://user-images.githubusercontent.com/71208443/136782681-76a27eb3-a98e-4260-b25c-8e17269869cc.png)
+
+strings filename gives me base64 encoded string
+
+base64 decode 
+
+DO{C0nVeR510n_m4Dn355}
+
+
+![image](https://user-images.githubusercontent.com/71208443/136782899-e4c6fcbe-dce2-4269-838c-1b031f63ae75.png)
+
+strimgs filename gives the flag
+
+echo "RE97VzNfYVIzX3RoM19DaDRtUDEwblN9" | base64 -d
+
+DO{W3_aR3_th3_Ch4mP10nS} 
+
+![image](https://user-images.githubusercontent.com/71208443/136783280-2fa5b5a5-54be-413c-9a1c-f20835bae000.png)
+
+strings 
+
+DO{H1d1nG_iN_Pl41n_SiGhT}
+
+
+![image](https://user-images.githubusercontent.com/71208443/136783507-f5518fb0-1503-4ccf-9975-a3939a6a7b7f.png)
+
+for this i  use stegsolve 
+
+![image](https://user-images.githubusercontent.com/71208443/136784278-5777a41e-ea77-4bf2-9010-f98c6ab7d5a9.png)
+
+
+
 
 
 
