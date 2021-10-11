@@ -102,8 +102,20 @@ for this i  use stegsolve
 
 
 
+![image](https://user-images.githubusercontent.com/71208443/136784634-d0291ac0-6a44-4b6a-abf4-6cdb35f98227.png)
 
+ 
+for this dtmf 
 
+keypad sound based challenge
+
+    1 111 111 11 1111 1111 1 1111 111 111 111 11 1111
+            while using dtmf i found the sequences
+    2 222 222 33 7777 7777 6 9999 333 444 555 33 7777
+    a c    c   e  s     s  m  z    f   i   l   e  s
+button phone based number  
+
+    DO{accessmzfiles}
 
 
 
